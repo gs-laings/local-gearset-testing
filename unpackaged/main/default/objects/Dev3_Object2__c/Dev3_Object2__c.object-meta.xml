@@ -162,4 +162,9 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <label>Dev3-Object2</label>
+    <actionOverrides>
+        <actionName>Feature action</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
 </CustomObject>

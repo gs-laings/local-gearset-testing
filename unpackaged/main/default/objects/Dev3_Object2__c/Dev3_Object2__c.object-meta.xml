@@ -160,7 +160,7 @@
     <pluralLabel>Dev3-Object2</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
-    <visibility>Public</visibility>
+    <visibility>Private</visibility>
     <label>Dev3-Object2</label>
     <actionOverrides>
         <actionName>Feature action</actionName>

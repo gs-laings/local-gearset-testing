@@ -136,7 +136,6 @@
         <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
-    <label>Dev3-Object2</label>
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
@@ -162,4 +161,5 @@
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <label>Dev3-Object2</label>
 </CustomObject>

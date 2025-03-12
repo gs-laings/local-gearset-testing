@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>sandbox-conflict-object</label>
     <nameField>
-        <label>sandbox-conflict-object Name</label>
+        <label>sandbox-conflict-object Name (Dev2)</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>sandbox-conflict-object</pluralLabel>

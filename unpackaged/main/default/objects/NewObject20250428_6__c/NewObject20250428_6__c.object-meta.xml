@@ -2,6 +2,10 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Accept</actionName>
         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
@@ -134,10 +138,6 @@
     <actionOverrides>
         <actionName>View</actionName>
         <formFactor>Small</formFactor>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
-        <actionName>Accept</actionName>
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
@@ -153,12 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Dev3-Object2</label>
+    <label>NewObject20250428_6</label>
     <nameField>
-        <label>Dev3-Object2 Name</label>
+        <label>NewObject20250428_6 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Dev3-Object2</pluralLabel>
+    <pluralLabel>NewObject20250428_6</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

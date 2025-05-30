@@ -153,12 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>sandbox-conflict-object</label>
+    <label>ConflictingObject_20250516</label>
     <nameField>
-        <label>sandbox-conflict-object Name (Dev2)</label>
+        <label>ConflictingObject_20250516 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>sandbox-conflict-object</pluralLabel>
+    <pluralLabel>ConflictingObject_20250516</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
